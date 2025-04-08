@@ -1,2 +1,2 @@
 # GitHub-Pages-Project
-CSE 110
+Nadine's User Page
